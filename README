@@ -1,0 +1,6 @@
+To run the code:
+1) Open IDLE
+2) import os
+3) os.chdir(gdirectory that contains the python program)
+4) execfile("final.py")
+5) Enter the parameters (directory should be full path):
